@@ -1,0 +1,11 @@
+{
+  "السديس": {
+    "الفاتحة": "https://example.com/sudais/fatiha.mp3",
+    "البقرة": "https://example.com/sudais/baqara.mp3",
+    "آل عمران": "https://example.com/sudais/imran.mp3"
+  },
+
+  "المنشاوي": {
+    "الفاتحة": "https://example.com/minshawi/fatiha.mp3",
+    "البقرة": "https://example.com/minshawi/baqara.mp3",
+    "آل عمران": "https://example.com/minshawi/imran.mp3"
